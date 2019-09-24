@@ -1,6 +1,6 @@
 # URI DESAFIO INICIANTE
 
-Desafios feito no site [URI](https://www.urionlinejudge.com.br)
+Desafios feitos em Java no site [URI](https://www.urionlinejudge.com.br)
 
 
 ## Desafios Feitos
