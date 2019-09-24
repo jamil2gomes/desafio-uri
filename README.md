@@ -1,13 +1,14 @@
 # URI DESAFIO INICIANTE
 
-Desafios feitos em Java no site [URI](https://www.urionlinejudge.com.br)
+Desafios feitos em Java no site [URI](https://www.urionlinejudge.com.br) modo **INICIANTE**
 
 
-## Desafios Feitos
+## DESAFIOS FEITOS
 
 * [1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 * [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
 * [1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)
+* [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)
 * [1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)
 * [1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
 * [1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
@@ -29,3 +30,10 @@ Desafios feitos em Java no site [URI](https://www.urionlinejudge.com.br)
 * [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
 * [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
 * [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
+* [1039](https://www.urionlinejudge.com.br/judge/pt/problems/view/1039)
+* [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
+* [1041](https://www.urionlinejudge.com.br/judge/pt/problems/view/1041)
+* [1042](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)
+* [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043)
+* [1044](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
+* [1045](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045)
