@@ -40,3 +40,5 @@ Desafios feitos em Java no site [URI](https://www.urionlinejudge.com.br) modo **
 * [1046](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046)
 * [1047](https://www.urionlinejudge.com.br/judge/pt/problems/view/1047)
 * [1048](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048)
+* [1049](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
+* [1050](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050)
