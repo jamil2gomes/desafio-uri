@@ -1,6 +1,7 @@
 package com.jamil.uri.iniciante;
 
 import java.util.Scanner;
+import static java.lang.Math.pow;
 
 public class VolumeDaCircunferencia {
 
@@ -11,7 +12,7 @@ public class VolumeDaCircunferencia {
 		
 		Double raio = scan.nextDouble();
 		
-		Double VOLUME = (4 * PI * Math.pow(raio, 3.0))/3.0;
+		Double VOLUME = (4 * PI * pow(raio, 3.0))/3.0;
 		
 		System.out.println("VOLUME = " + String.format("%.3f", VOLUME));
 		
