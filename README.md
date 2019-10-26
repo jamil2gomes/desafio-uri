@@ -50,3 +50,8 @@ Desafios feitos em Java no site [URI](https://www.urionlinejudge.com.br) modo **
 | [1061](https://www.urionlinejudge.com.br/judge/pt/problems/view/1061)|
 | [1064](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064)|
 | [1065](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065)|
+| [1066](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066)|
+| [1067](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)|
+| [1070](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070)|
+| [1071](https://www.urionlinejudge.com.br/judge/pt/problems/view/1071)|
+| [1072](https://www.urionlinejudge.com.br/judge/pt/problems/view/1072)|
